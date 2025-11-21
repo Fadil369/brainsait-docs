@@ -74,6 +74,15 @@
 
   /* Layout */
   --container-max-width: 1280px;
+  
+  /* Z-index scale */
+  --z-index-dropdown: 100;
+  --z-index-sticky: 200;
+  --z-index-fixed: 300;
+  --z-index-modal-backdrop: 400;
+  --z-index-modal: 500;
+  --z-index-popover: 600;
+  --z-index-tooltip: 700;
 
   /* MkDocs Material Theme Overrides - Enhanced for readability */
   --md-primary-fg-color: var(--color-blue-accent);
@@ -550,7 +559,7 @@ img#hero-image {
   right: var(--spacing-lg);
   top: 50%;
   transform: translateY(-50%);
-  z-index: 1000;
+  z-index: var(--z-index-fixed);
   opacity: 1;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -569,7 +578,13 @@ img#hero-image {
   border-radius: var(--border-radius-lg);
   padding: var(--spacing-md);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(12px);
+}
+
+/* Reduce blur for better performance */
+@media (prefers-reduced-motion: no-preference) {
+  .language-toggle {
+    backdrop-filter: blur(8px);
+  }
 }
 
 .language-toggle__btn {
@@ -594,12 +609,27 @@ img#hero-image {
   background: rgba(96, 165, 250, 0.15);
   border-color: var(--color-blue-accent);
   color: var(--color-link-hover);
-  transform: translateX(-2px);
-  text-decoration: none;
 }
 
-[dir="rtl"] .language-toggle__btn:hover {
-  transform: translateX(2px);
+/* Only apply transform animation for users who don't prefer reduced motion */
+@media (prefers-reduced-motion: no-preference) {
+  .language-toggle__btn:hover {
+    transform: translateX(-2px);
+  }
+  
+  [dir="rtl"] .language-toggle__btn:hover {
+    transform: translateX(2px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .language-toggle__btn:hover {
+    transform: none;
+  }
+  
+  [dir="rtl"] .language-toggle__btn:hover {
+    transform: none;
+  }
 }
 
 .language-toggle__btn--active {

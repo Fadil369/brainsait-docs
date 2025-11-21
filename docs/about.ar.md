@@ -3,7 +3,7 @@ title: عن الدكتور محمد الفاضل
 description: طبيب ورائد أعمال تقني ومؤسس برينسايت - تحويل الرعاية الصحية من خلال الابتكار والذكاء الاصطناعي
 ---
 
-<img src="/assets/images/logo.svg" alt="الدكتور محمد الفاضل - شعار برينسايت" id="hero-image" width="200" height="200" loading="eager">
+<img src="/assets/images/logo.svg" alt="الدكتور محمد الفاضل - شعار برينسايت" id="hero-image" width="200" height="200" loading="lazy">
 
 # الدكتور محمد الفاضل
 

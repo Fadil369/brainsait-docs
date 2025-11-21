@@ -3,7 +3,7 @@ title: About Dr. Mohamed Al Fadil
 description: Physician, Tech Entrepreneur & Founder of BrainSAIT LTD – Transforming healthcare through innovation and AI
 ---
 
-<img src="/assets/images/logo.svg" alt="Dr. Mohamed Al Fadil - BrainSAIT Logo" id="hero-image" width="200" height="200" loading="eager">
+<img src="/assets/images/logo.svg" alt="Dr. Mohamed Al Fadil - BrainSAIT Logo" id="hero-image" width="200" height="200" loading="lazy">
 
 # Dr. Mohamed Al Fadil
 
