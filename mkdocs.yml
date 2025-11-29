@@ -331,6 +331,13 @@ nav:
       - RadioLinc | راديو لينك: healthcare/agents/RadioLinc.md
       - Voice2Care | فويس تو كير: healthcare/agents/Voice2Care.md
 
+    - Cloudpital Integration | تكامل كلاودبيتال:
+      - healthcare/cloudpital/index.md
+      - Overview | نظرة عامة: healthcare/cloudpital/overview.md
+      - EMR Features | ميزات EMR: healthcare/cloudpital/emr_features.md
+      - RCM Capabilities | قدرات RCM: healthcare/cloudpital/rcm_capabilities.md
+      - NPHIES Integration | تكامل نفيس: healthcare/cloudpital/nphies_integration.md
+
     - SOPs | الإجراءات:
       - Claim Submission | تقديم المطالبة: healthcare/sop/claim_submission_sop.md
       - Eligibility Process | التحقق من الأهلية: healthcare/sop/eligibility_process.md
