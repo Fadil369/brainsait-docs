@@ -57,7 +57,7 @@ This volume covers all technical aspects of BrainSAIT including infrastructure, 
 
 ### APIs
 
-17. [Internal APIs | واجهات داخلية](apis/internal.md)
+17. [API Overview | نظرة عامة على APIs](apis/overview.md)
 18. [NPHIES Integration | تكامل نفيس](apis/nphies.md)
 
 ### Architecture | الهندسة

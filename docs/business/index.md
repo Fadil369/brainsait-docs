@@ -29,32 +29,35 @@ This volume covers BrainSAIT's business operations, market strategy, product eco
 ### Strategy | الاستراتيجية
 
 1. [Mission & Vision | الرؤية والرسالة](strategy/mission_vision.md)
-2. [Market Alignment | التوافق مع السوق](strategy/market_alignment.md)
+2. [Market Analysis | تحليل السوق](strategy/market_analysis.md)
+3. [Competitive Landscape | المشهد التنافسي](strategy/competitive_landscape.md)
 
 ### Products | المنتجات
 
-3. [Ecosystem Map | خريطة المنظومة](products/ecosystem_map.md)
-4. [Pricing | التسعير](products/pricing.md)
+4. [Ecosystem Map | خريطة المنظومة](products/ecosystem_map.md)
+5. [Product Catalog | كتالوج المنتجات](products/catalog.md)
+6. [Pricing Models | نماذج التسعير](pricing/pricing_models.md)
 
 ### Partners | الشركاء
 
-5. [Partner Management | إدارة الشركاء](partners/partner_management.md)
-6. [Vendor Guidelines | إرشادات الموردين](partners/vendor_guidelines.md)
+7. [Partner Management | إدارة الشركاء](partners/partner_management.md)
+8. [Partner Program | برنامج الشراكة](partners/partner_program.md)
+9. [Integration Partners | شركاء التكامل](partners/integration_partners.md)
 
 ### Marketing | التسويق
 
-7. [Brand Identity | الهوية التجارية](marketing/brand_identity.md)
-8. [Sales Playbooks | أدلة المبيعات](marketing/sales_playbooks.md)
+10. [Marketing Plan | خطة التسويق](marketing/marketing_plan.md)
+11. [GTM Strategy | استراتيجية الدخول للسوق](marketing/gtm_strategy.md)
+12. [Brand Identity | الهوية التجارية](brand_identity.md)
 
 ### RFPs | المناقصات
 
-9. [Response Guide | دليل الاستجابة](rfps/response_guide.md)
-10. [Templates | القوالب](rfps/templates.md)
+13. [Response Guide | دليل الاستجابة](rfps/response_guide.md)
+14. [Tender Framework | إطار المناقصات](rfps/tender_framework.md)
 
 ### Financials | المالية
 
-11. [Revenue Streams | مصادر الإيرادات](financials/revenue_streams.md)
-12. [Financial Models | النماذج المالية](financials/financial_models.md)
+15. [Financial Overview | نظرة مالية عامة](financials/overview.md)
 
 ---
 

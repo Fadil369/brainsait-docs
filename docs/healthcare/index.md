@@ -54,7 +54,7 @@ This volume covers everything related to Saudi healthcare digital transformation
 
 ### Part V: SOPs | الجزء الخامس: الإجراءات
 
-19. [Claim Submission SOP | إجراء تقديم المطالبة](sop/claim_submission_sop.md)
+19. [Claim Submission SOP | إجراء تقديم المطالبة](sop/claim_submission.md)
 20. [Eligibility Process | عملية الأهلية](sop/eligibility_process.md)
 21. [Compliance SOP | إجراء الامتثال](sop/compliance_sop.md)
 
