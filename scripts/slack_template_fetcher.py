@@ -164,7 +164,7 @@ TEMPLATE_METADATA = {
         "category": "training",
         "title_en": "Enablement Hub",
         "title_ar": "مركز التمكين",
-        "description_en": "training and enablement resources",
+        "description_en": "providing training and enablement resources",
         "description_ar": "موارد التدريب والتمكين",
     },
     "feedback_template": {
@@ -185,7 +185,7 @@ TEMPLATE_METADATA = {
         "category": "hr",
         "title_en": "Benefits Hub",
         "title_ar": "مركز المزايا",
-        "description_en": "employee benefits information and resources",
+        "description_en": "providing employee benefits information and resources",
         "description_ar": "معلومات وموارد مزايا الموظفين",
     },
     "time_off_request_template": {
