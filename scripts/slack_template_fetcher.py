@@ -165,7 +165,7 @@ TEMPLATE_METADATA = {
         "title_en": "Enablement Hub",
         "title_ar": "مركز التمكين",
         "description_en": "training and enablement resources",
-        "description_ar": "مركز مركزي لموارد التدريب والتمكين",
+        "description_ar": "موارد التدريب والتمكين",
     },
     "feedback_template": {
         "category": "hr",
