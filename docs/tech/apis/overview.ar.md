@@ -68,7 +68,7 @@
 ## المستندات ذات الصلة
 
 - [المصادقة](authentication.ar.md)
-- [قالب API](../../brand/templates/api_template.md)
+- [قالب API](../../brand/templates/api_template.ar.md)
 - [مرجع NPHIES API](../../healthcare/nphies/api_reference.ar.md)
 
 ---

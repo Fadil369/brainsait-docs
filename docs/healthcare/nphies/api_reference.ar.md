@@ -417,10 +417,10 @@ claim_response = client.submit_claim(claim_bundle)
 
 ## الوثائق ذات الصلة
 
-- [نظرة عامة على نفيس](overview.md)
-- [ملف FHIR R4](fhir_r4_profile.md)
-- [سير العمل](workflows.md)
-- [خط أنابيب الأتمتة](../claims/automation_pipeline.md)
+- [نظرة عامة على نفيس](overview.ar.md)
+- [ملف FHIR R4](fhir_r4_profile.ar.md)
+- [سير العمل](workflows.ar.md)
+- [خط أنابيب الأتمتة](../claims/automation_pipeline.ar.md)
 
 ---
 

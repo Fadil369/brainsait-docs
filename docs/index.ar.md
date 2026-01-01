@@ -17,7 +17,7 @@ tags:
 **برينسايت** هي منصة شاملة للذكاء الاصطناعي في مجال الرعاية الصحية مصممة للمملكة العربية السعودية، تقدم حلولاً متكاملة لمعالجة المطالبات والإدارة السريرية والامتثال التنظيمي.
 
 [:material-rocket-launch: ابدأ الآن](#quick-start){ .md-button .md-button--primary }
-[:material-book-open: التوثيق](healthcare/index.md){ .md-button }
+[:material-book-open: التوثيق](healthcare/index.ar.md){ .md-button }
 
 </div>
 
@@ -33,7 +33,7 @@ tags:
 
     معالجة المطالبات وتكامل نفيس ووكلاء الذكاء الاصطناعي المتخصصين في عمليات الرعاية الصحية
 
-    [:octicons-arrow-right-24: استكشف الرعاية الصحية](healthcare/index.md)
+    [:octicons-arrow-right-24: استكشف الرعاية الصحية](healthcare/index.ar.md)
 
 -   :material-briefcase:{ .lg .middle } **الأعمال**
 
@@ -41,7 +41,7 @@ tags:
 
     الاستراتيجية والمنتجات وإدارة الشركاء وموارد التسويق
 
-    [:octicons-arrow-right-24: استكشف الأعمال](business/index.md)
+    [:octicons-arrow-right-24: استكشف الأعمال](business/index.ar.md)
 
 -   :material-code-braces:{ .lg .middle } **التقنية**
 
@@ -49,7 +49,7 @@ tags:
 
     البنية التحتية ووكلاء LINC والتطبيقات وممارسات DevOps
 
-    [:octicons-arrow-right-24: استكشف التقنية](tech/index.md)
+    [:octicons-arrow-right-24: استكشف التقنية](tech/index.ar.md)
 
 -   :material-account-heart:{ .lg .middle } **التطوير الشخصي**
 
@@ -57,7 +57,7 @@ tags:
 
     العقلية والقيادة والإنتاجية وأنظمة التعلم
 
-    [:octicons-arrow-right-24: استكشف التطوير الشخصي](personal/index.md)
+    [:octicons-arrow-right-24: استكشف التطوير الشخصي](personal/index.ar.md)
 
 </div>
 
@@ -67,21 +67,21 @@ tags:
 
 ### للمتخصصين في الرعاية الصحية
 
-1. **فهم المطالبات** - تعرف على [دورة حياة المطالبة](healthcare/claims/lifecycle.md)
-2. **تكامل نفيس** - استكشف [نظرة عامة على نفيس](healthcare/nphies/overview.md)
-3. **استخدم الوكلاء** - انشر [ClaimLinc](healthcare/agents/ClaimLinc.md) للأتمتة
+1. **فهم المطالبات** - تعرف على [دورة حياة المطالبة](healthcare/claims/lifecycle.ar.md)
+2. **تكامل نفيس** - استكشف [نظرة عامة على نفيس](healthcare/nphies/overview.ar.md)
+3. **استخدم الوكلاء** - انشر [ClaimLinc](healthcare/agents/ClaimLinc.ar.md) للأتمتة
 
 ### للمطورين
 
-1. **مرجع API** - راجع [واجهات نفيس](tech/apis/nphies.md)
-2. **منظومة LINC** - افهم [بنية الوكلاء](tech/agents/linc_ecosystem.md)
-3. **البنية التحتية** - راجع [إعداد Coolify](tech/infrastructure/coolify.md)
+1. **مرجع API** - راجع [واجهات نفيس](tech/apis/nphies.ar.md)
+2. **منظومة LINC** - افهم [بنية الوكلاء](tech/agents/linc_ecosystem.ar.md)
+3. **البنية التحتية** - راجع [إعداد Coolify](tech/infrastructure/coolify.ar.md)
 
 ### لقادة الأعمال
 
-1. **توافق السوق** - راجع [تحليل السوق](business/strategy/market_analysis.md)
-2. **خريطة المنظومة** - افهم [عروض المنتجات](business/products/ecosystem_map.md)
-3. **أدلة المبيعات** - استخدم [خطة التسويق](business/marketing/marketing_plan.md)
+1. **توافق السوق** - راجع [تحليل السوق](business/strategy/market_analysis.ar.md)
+2. **خريطة المنظومة** - افهم [عروض المنتجات](business/products/ecosystem_map.ar.md)
+3. **أدلة المبيعات** - استخدم [خطة التسويق](business/marketing/marketing_plan.ar.md)
 
 ---
 
@@ -121,10 +121,10 @@ tags:
 
 ## الموارد
 
-- [:material-book: المصطلحات الرئيسية](appendices/glossary_master.md)
-- [:material-checkbox-marked: فهرس الامتثال](appendices/compliance_index.md)
-- [:material-link: الروابط المرجعية](appendices/reference_links.md)
-- [:material-palette: إرشادات العلامة التجارية](brand/index.md)
+- [:material-book: المصطلحات الرئيسية](appendices/glossary_master.ar.md)
+- [:material-checkbox-marked: فهرس الامتثال](appendices/compliance_index.ar.md)
+- [:material-link: الروابط المرجعية](appendices/reference_links.ar.md)
+- [:material-palette: إرشادات العلامة التجارية](brand/index.ar.md)
 
 ---
 

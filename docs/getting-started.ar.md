@@ -19,7 +19,7 @@ description: دليل البدء السريع لنظام معرفة برينسا
 - **الإجراءات التشغيلية**: إجراءات التشغيل القياسية لعمليات الرعاية الصحية
 - **الامتثال**: إرشادات PDPL و HIPAA
 
-**ابدأ من هنا**: [نظرة عامة على الرعاية الصحية](healthcare/overview/introduction.md)
+**ابدأ من هنا**: [نظرة عامة على الرعاية الصحية](healthcare/overview/introduction.ar.md)
 
 ---
 
@@ -30,7 +30,7 @@ description: دليل البدء السريع لنظام معرفة برينسا
 - **تحليل السوق**: رؤى سوق تقنية المعلومات الصحية السعودية
 - **برامج الشراكة**: فرص التعاون
 
-**ابدأ من هنا**: [نظرة عامة على الأعمال](business/index.md)
+**ابدأ من هنا**: [نظرة عامة على الأعمال](business/index.ar.md)
 
 ---
 
@@ -42,7 +42,7 @@ description: دليل البدء السريع لنظام معرفة برينسا
 - **DevOps**: خطوط CI/CD وأدلة النشر
 - **الأمان**: الهندسة وأفضل الممارسات
 
-**ابدأ من هنا**: [نظرة عامة على التقنية](tech/index.md)
+**ابدأ من هنا**: [نظرة عامة على التقنية](tech/index.ar.md)
 
 ---
 
@@ -53,26 +53,26 @@ description: دليل البدء السريع لنظام معرفة برينسا
 - **القيادة**: قيادة التحول الرقمي
 - **الأخلاقيات**: الذكاء الاصطناعي والذكاء التنظيمي
 
-**ابدأ من هنا**: [التطوير الشخصي](personal/index.md)
+**ابدأ من هنا**: [التطوير الشخصي](personal/index.ar.md)
 
 ---
 
 ## 🎯 التنقل السريع
 
 ### لمقدمي الرعاية الصحية
-1. [دورة حياة المطالبة](healthcare/claims/lifecycle.md) - فهم العملية من البداية للنهاية
-2. [وكيل ClaimLinc](healthcare/agents/index.md) - أتمتة التحقق من المطالبات
-3. [إجراء تقديم المطالبة](healthcare/sop/claim_submission.md) - إجراءات خطوة بخطوة
+1. [دورة حياة المطالبة](healthcare/claims/lifecycle.ar.md) - فهم العملية من البداية للنهاية
+2. [وكيل ClaimLinc](healthcare/agents/index.ar.md) - أتمتة التحقق من المطالبات
+3. [إجراء تقديم المطالبة](healthcare/sop/claim_submission.ar.md) - إجراءات خطوة بخطوة
 
 ### للمطورين
-1. [نظرة عامة على البنية التحتية](tech/infrastructure/overview.md) - هندسة النظام
-2. [MasterLinc](tech/agents/masterlinc.md) - تنسيق الوكلاء
-3. [توثيق واجهة برمجة التطبيقات](tech/apis/overview.md) - أدلة التكامل
+1. [نظرة عامة على البنية التحتية](tech/infrastructure/overview.ar.md) - هندسة النظام
+2. [MasterLinc](tech/agents/masterlinc.ar.md) - تنسيق الوكلاء
+3. [توثيق واجهة برمجة التطبيقات](tech/apis/overview.ar.md) - أدلة التكامل
 
 ### لقادة الأعمال
-1. [الرؤية والرسالة](business/strategy/mission_vision.md) - التوجه الاستراتيجي
-2. [كتالوج المنتجات](business/products/catalog.md) - نظرة عامة على الحلول
-3. [تحليل السوق](business/strategy/market_analysis.md) - تقييم الفرص
+1. [الرؤية والرسالة](business/strategy/mission_vision.ar.md) - التوجه الاستراتيجي
+2. [كتالوج المنتجات](business/products/catalog.ar.md) - نظرة عامة على الحلول
+3. [تحليل السوق](business/strategy/market_analysis.ar.md) - تقييم الفرص
 
 ---
 
@@ -187,7 +187,7 @@ description: دليل البدء السريع لنظام معرفة برينسا
 
 ## 📋 المصطلحات
 
-غير مألوف بمصطلح؟ تحقق من [المصطلحات](appendices/glossary_master.md) الشاملة التي تغطي:
+غير مألوف بمصطلح؟ تحقق من [المصطلحات](appendices/glossary_master.ar.md) الشاملة التي تغطي:
 - مصطلحات الرعاية الصحية
 - المصطلحات التقنية
 - مفاهيم الأعمال
@@ -211,16 +211,16 @@ description: دليل البدء السريع لنظام معرفة برينسا
 مستعد للبدء؟ إليك بعض نقاط البداية الموصى بها:
 
 **إذا كنت جديداً على برينسايت**:
-← [الرؤية والرسالة](business/strategy/mission_vision.md)
+← [الرؤية والرسالة](business/strategy/mission_vision.ar.md)
 
 **إذا كنت مقدم رعاية صحية**:
-← [نظرة عامة على الرعاية الصحية](healthcare/overview/introduction.md)
+← [نظرة عامة على الرعاية الصحية](healthcare/overview/introduction.ar.md)
 
 **إذا كنت مطوراً**:
-← [نظرة عامة على البنية التحتية](tech/infrastructure/overview.md)
+← [نظرة عامة على البنية التحتية](tech/infrastructure/overview.ar.md)
 
 **إذا كنت تقيّم الحلول**:
-← [كتالوج المنتجات](business/products/catalog.md)
+← [كتالوج المنتجات](business/products/catalog.ar.md)
 
 ---
 

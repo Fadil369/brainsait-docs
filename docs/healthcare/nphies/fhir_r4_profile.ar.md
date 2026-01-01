@@ -413,10 +413,10 @@
 
 ## الوثائق ذات الصلة
 
-- [نظرة عامة على نفيس](overview.md)
-- [مرجع API](api_reference.md)
-- [سير العمل](workflows.md)
-- [خط أنابيب الأتمتة](../claims/automation_pipeline.md)
+- [نظرة عامة على نفيس](overview.ar.md)
+- [مرجع API](api_reference.ar.md)
+- [سير العمل](workflows.ar.md)
+- [خط أنابيب الأتمتة](../claims/automation_pipeline.ar.md)
 
 ---
 

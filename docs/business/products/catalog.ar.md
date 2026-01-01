@@ -469,10 +469,10 @@ version: 1.0.0
 
 ## الوثائق ذات الصلة
 
-- [نماذج التسعير](../pricing/pricing_models.md)
-- [المواصفات التقنية](../../tech/index.md)
-- [برنامج الشراكة](../partners/partner_program.md)
-- [توثيق API](../../tech/apis/overview.md)
+- [نماذج التسعير](../pricing/pricing_models.ar.md)
+- [المواصفات التقنية](../../tech/index.ar.md)
+- [برنامج الشراكة](../partners/partner_program.ar.md)
+- [توثيق API](../../tech/apis/overview.ar.md)
 
 
 </div>

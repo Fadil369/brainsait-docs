@@ -226,9 +226,9 @@ if not validation_result.is_valid:
 
 ## Related Documentation
 
-- [NPHIES Integration](../nphies/overview.md)
-- [Claims Lifecycle](../claims/lifecycle.md)
-- [Technical Architecture](../../tech/agents/masterlinc.md)
+- [NPHIES Integration](../nphies/overview.ar.md)
+- [Claims Lifecycle](../claims/lifecycle.ar.md)
+- [Technical Architecture](../../tech/agents/masterlinc.ar.md)
 
 
 </div>

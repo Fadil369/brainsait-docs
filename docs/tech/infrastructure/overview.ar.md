@@ -192,7 +192,7 @@
 
 ## وثائق ذات صلة
 
-- [إعداد Cloudflare](./cloudflare.md)
-- [نشر Coolify](./coolify.md)
-- [إرشادات الأمان](./security.md)
-- [خطوط DevOps](../devops/cicd.md)
+- [إعداد Cloudflare](./cloudflare.ar.md)
+- [نشر Coolify](./coolify.ar.md)
+- [إرشادات الأمان](./security.ar.md)
+- [خطوط DevOps](../devops/cicd.ar.md)

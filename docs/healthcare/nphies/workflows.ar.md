@@ -328,10 +328,10 @@ graph TD
 
 ## الوثائق ذات الصلة
 
-- [نظرة عامة على نفيس](overview.md)
-- [ملف FHIR R4](fhir_r4_profile.md)
-- [مرجع API](api_reference.md)
-- [دورة حياة المطالبة](../claims/lifecycle.md)
+- [نظرة عامة على نفيس](overview.ar.md)
+- [ملف FHIR R4](fhir_r4_profile.ar.md)
+- [مرجع API](api_reference.ar.md)
+- [دورة حياة المطالبة](../claims/lifecycle.ar.md)
 
 ---
 

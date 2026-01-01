@@ -311,9 +311,9 @@ sequenceDiagram
 ## المستندات ذات الصلة
 
 - [كتالوج المنتجات](catalog.ar.md)
-- [خريطة وكلاء Linc](../../brand/linc_agents_map.md)
-- [نظرة عامة على البنية](../../tech/architecture/overview.md)
-- [وكيل MasterLinc](../../tech/agents/masterlinc.md)
+- [خريطة وكلاء Linc](../../brand/linc_agents_map.ar.md)
+- [نظرة عامة على البنية](../../tech/architecture/overview.ar.md)
+- [وكيل MasterLinc](../../tech/agents/masterlinc.ar.md)
 
 ---
 

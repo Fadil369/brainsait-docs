@@ -171,18 +171,18 @@ Voice2Care  DocsLinc  ClaimLinc  PolicyLinc  NPHIES API   التسوية
 
 استمر في رحلة التعلم:
 
-1. [المشهد الصحي السعودي](ksa_health_landscape.md) - خريطة مفصلة للمنظومة
-2. [التحول الرقمي](digital_transformation.md) - التقنيات الممكنة
-3. [دورة حياة المطالبة](../claims/lifecycle.md) - العملية الشاملة
-4. [نظرة عامة على نفيس](../nphies/overview.md) - تكامل المنصة
+1. [المشهد الصحي السعودي](ksa_health_landscape.ar.md) - خريطة مفصلة للمنظومة
+2. [التحول الرقمي](digital_transformation.ar.md) - التقنيات الممكنة
+3. [دورة حياة المطالبة](../claims/lifecycle.ar.md) - العملية الشاملة
+4. [نظرة عامة على نفيس](../nphies/overview.ar.md) - تكامل المنصة
 
 ---
 
 ## وثائق ذات صلة
 
-- [المصطلحات الرئيسية](../../appendices/glossary_master.md)
-- [فهرس الامتثال](../../appendices/compliance_index.md)
-- [وكيل ClaimLinc](../agents/ClaimLinc.md)
+- [المصطلحات الرئيسية](../../appendices/glossary_master.ar.md)
+- [فهرس الامتثال](../../appendices/compliance_index.ar.md)
+- [وكيل ClaimLinc](../agents/ClaimLinc.ar.md)
 
 ---
 

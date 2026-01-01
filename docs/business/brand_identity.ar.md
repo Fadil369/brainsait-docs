@@ -277,10 +277,10 @@
 
 ## المستندات ذات الصلة
 
-- [الألوان](../brand/colors.md)
-- [الخطوط](../brand/typography.md)
+- [الألوان](../brand/colors.ar.md)
+- [الخطوط](../brand/typography.ar.md)
 - [خطة التسويق](marketing/marketing_plan.ar.md)
-- [خريطة وكلاء Linc](../brand/linc_agents_map.md)
+- [خريطة وكلاء Linc](../brand/linc_agents_map.ar.md)
 
 ---
 

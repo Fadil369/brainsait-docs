@@ -293,9 +293,9 @@ ClaimLinc classifies rejections into these categories:
 
 ## Related Agents | الوكلاء المرتبطون
 
-- [PolicyLinc | بوليسي لينك](PolicyLinc.md) - Payer policy interpretation
-- [DocsLinc | دوكس لينك](DocsLinc.md) - Document processing
-- [MasterLinc | ماستر لينك](../../tech/agents/masterlinc.md) - Orchestration
+- [PolicyLinc | بوليسي لينك](PolicyLinc.ar.md) - Payer policy interpretation
+- [DocsLinc | دوكس لينك](DocsLinc.ar.md) - Document processing
+- [MasterLinc | ماستر لينك](../../tech/agents/masterlinc.ar.md) - Orchestration
 
 ---
 

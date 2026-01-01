@@ -296,9 +296,9 @@
 ## المستندات ذات الصلة
 
 - [برنامج الشركاء](partner_program.ar.md)
-- [قالب API](../../brand/templates/api_template.md)
-- [نظرة عامة على البنية](../../tech/architecture/overview.md)
-- [مرجع NPHIES API](../../healthcare/nphies/api_reference.md)
+- [قالب API](../../brand/templates/api_template.ar.md)
+- [نظرة عامة على البنية](../../tech/architecture/overview.ar.md)
+- [مرجع NPHIES API](../../healthcare/nphies/api_reference.ar.md)
 
 ---
 

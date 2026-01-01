@@ -24,7 +24,7 @@ tags:
 
     بناء عقلية النمو والتفكير الإيجابي
 
-    [:octicons-arrow-right-24: العقلية](mindset.md)
+    [:octicons-arrow-right-24: العقلية](mindset.ar.md)
 
 -   :material-account-tie:{ .lg .middle } **القيادة**
 
@@ -32,7 +32,7 @@ tags:
 
     مهارات القيادة وإدارة الفرق
 
-    [:octicons-arrow-right-24: القيادة](leadership.md)
+    [:octicons-arrow-right-24: القيادة](leadership.ar.md)
 
 -   :material-rocket-launch:{ .lg .middle } **الإنتاجية**
 
@@ -40,7 +40,7 @@ tags:
 
     أنظمة وأدوات تعزيز الإنتاجية
 
-    [:octicons-arrow-right-24: الإنتاجية](productivity.md)
+    [:octicons-arrow-right-24: الإنتاجية](productivity.ar.md)
 
 -   :material-school:{ .lg .middle } **التعلم**
 
@@ -48,7 +48,7 @@ tags:
 
     أنظمة التعلم المستمر
 
-    [:octicons-arrow-right-24: أنظمة التعلم](learning_systems.md)
+    [:octicons-arrow-right-24: أنظمة التعلم](learning_systems.ar.md)
 
 -   :material-heart-pulse:{ .lg .middle } **الصحة والتوازن**
 
@@ -56,7 +56,7 @@ tags:
 
     التوازن بين العمل والحياة
 
-    [:octicons-arrow-right-24: الصحة والتوازن](health_and_balance.md)
+    [:octicons-arrow-right-24: الصحة والتوازن](health_and_balance.ar.md)
 
 -   :material-scale-balance:{ .lg .middle } **الأخلاقيات**
 
@@ -64,7 +64,7 @@ tags:
 
     أخلاقيات الذكاء الاصطناعي
 
-    [:octicons-arrow-right-24: الأخلاقيات والذكاء](ethics_ai_oi.md)
+    [:octicons-arrow-right-24: الأخلاقيات والذكاء](ethics_ai_oi.ar.md)
 
 </div>
 
@@ -91,13 +91,13 @@ tags:
 
 ## رحلة التطوير
 
-1. **البداية** - ابدأ بـ [العقلية](mindset.md)
-2. **المهارات** - طور [القيادة](leadership.md)
-3. **الأدوات** - استخدم [الإنتاجية](productivity.md)
-4. **التوازن** - حافظ على [الصحة والتوازن](health_and_balance.md)
+1. **البداية** - ابدأ بـ [العقلية](mindset.ar.md)
+2. **المهارات** - طور [القيادة](leadership.ar.md)
+3. **الأدوات** - استخدم [الإنتاجية](productivity.ar.md)
+4. **التوازن** - حافظ على [الصحة والتوازن](health_and_balance.ar.md)
 
 ---
 
 ## التأملات
 
-راجع [التأملات](reflections.md) للأفكار والدروس المستفادة.
+راجع [التأملات](reflections.ar.md) للأفكار والدروس المستفادة.

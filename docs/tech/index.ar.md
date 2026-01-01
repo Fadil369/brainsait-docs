@@ -24,7 +24,7 @@ tags:
 
     Cloudflare و Coolify ومجموعة Raspberry
 
-    [:octicons-arrow-right-24: Cloudflare](infrastructure/cloudflare.md)
+    [:octicons-arrow-right-24: Cloudflare](infrastructure/cloudflare.ar.md)
 
 -   :material-robot:{ .lg .middle } **الوكلاء**
 
@@ -32,7 +32,7 @@ tags:
 
     منظومة LINC والوكلاء المتخصصون
 
-    [:octicons-arrow-right-24: منظومة LINC](agents/linc_ecosystem.md)
+    [:octicons-arrow-right-24: منظومة LINC](agents/linc_ecosystem.ar.md)
 
 -   :material-application:{ .lg .middle } **التطبيقات**
 
@@ -40,7 +40,7 @@ tags:
 
     HealthSync و Efhm RAG و Voice2Care
 
-    [:octicons-arrow-right-24: HealthSync](apps/healthsync.md)
+    [:octicons-arrow-right-24: HealthSync](apps/healthsync.ar.md)
 
 -   :material-infinity:{ .lg .middle } **DevOps**
 
@@ -48,7 +48,7 @@ tags:
 
     CI/CD وإدارة الأسرار والمراقبة
 
-    [:octicons-arrow-right-24: CI/CD](devops/cicd.md)
+    [:octicons-arrow-right-24: CI/CD](devops/cicd.ar.md)
 
 -   :material-api:{ .lg .middle } **APIs**
 
@@ -56,7 +56,7 @@ tags:
 
     واجهات داخلية وتكامل نفيس
 
-    [:octicons-arrow-right-24: واجهات نفيس](apis/nphies.md)
+    [:octicons-arrow-right-24: واجهات نفيس](apis/nphies.ar.md)
 
 -   :material-sitemap:{ .lg .middle } **الهندسة**
 
@@ -64,7 +64,7 @@ tags:
 
     نظرة عامة على النظام ونماذج البيانات
 
-    [:octicons-arrow-right-24: نظرة عامة](architecture/overview.md)
+    [:octicons-arrow-right-24: نظرة عامة](architecture/overview.ar.md)
 
 </div>
 
@@ -102,15 +102,15 @@ tags:
 
 ## البدء السريع للمطورين
 
-1. راجع [نظرة عامة على الهندسة](architecture/overview.md)
-2. فهم [منظومة LINC](agents/linc_ecosystem.md)
-3. إعداد [CI/CD](devops/cicd.md)
-4. استخدم [واجهات نفيس](apis/nphies.md)
+1. راجع [نظرة عامة على الهندسة](architecture/overview.ar.md)
+2. فهم [منظومة LINC](agents/linc_ecosystem.ar.md)
+3. إعداد [CI/CD](devops/cicd.ar.md)
+4. استخدم [واجهات نفيس](apis/nphies.ar.md)
 
 ---
 
 ## أفضل الممارسات
 
-- اتبع معايير الكود في [DevLinc](agents/devlinc.md)
-- طبق [إدارة الأسرار](devops/vault_secrets.md)
-- راقب باستخدام [المراقبة](devops/monitoring.md)
+- اتبع معايير الكود في [DevLinc](agents/devlinc.ar.md)
+- طبق [إدارة الأسرار](devops/vault_secrets.ar.md)
+- راقب باستخدام [المراقبة](devops/monitoring.ar.md)

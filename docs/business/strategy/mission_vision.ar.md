@@ -255,7 +255,7 @@ LinkedIn: /company/brainsait
 
 ## وثائق ذات صلة
 
-- [كتالوج المنتجات](../products/catalog.md)
-- [تحليل السوق](./market_analysis.md)
-- [استراتيجية التسعير](../pricing/pricing_models.md)
-- [برنامج الشراكة](../partners/partner_program.md)
+- [كتالوج المنتجات](../products/catalog.ar.md)
+- [تحليل السوق](./market_analysis.ar.md)
+- [استراتيجية التسعير](../pricing/pricing_models.ar.md)
+- [برنامج الشراكة](../partners/partner_program.ar.md)

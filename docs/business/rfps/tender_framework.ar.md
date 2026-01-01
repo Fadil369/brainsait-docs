@@ -348,7 +348,7 @@
 - [دليل الاستجابة لطلبات العروض](response_guide.ar.md)
 - [برنامج الشركاء](../partners/partner_program.ar.md)
 - [استراتيجية المؤسسات](../sme_sau_market/enterprise_strategy.ar.md)
-- [إجراءات الامتثال](../../healthcare/sop/compliance_sop.md)
+- [إجراءات الامتثال](../../healthcare/sop/compliance_sop.ar.md)
 
 ---
 

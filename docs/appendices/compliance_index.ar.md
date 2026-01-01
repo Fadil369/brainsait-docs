@@ -29,7 +29,7 @@
 
 #### معايير نفيس
 - **الحالة:** إلزامي
-- **الوثائق:** [نظرة عامة على نفيس](../healthcare/nphies/overview.md)
+- **الوثائق:** [نظرة عامة على نفيس](../healthcare/nphies/overview.ar.md)
 - **المتطلبات الرئيسية:**
   - التوافق مع FHIR R4
   - معايير API
@@ -95,7 +95,7 @@
 
 - [إجراءات الامتثال](../healthcare/sop/compliance_sop.ar.md)
 - [توافق HIPAA و PDPL](../healthcare/nphies/hipaa_pdpl_alignment.ar.md)
-- [الأمان](../tech/infrastructure/security.md)
+- [الأمان](../tech/infrastructure/security.ar.md)
 - [سيك يونت](../tech/agents/secunit.ar.md)
 
 ---

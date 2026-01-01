@@ -24,7 +24,7 @@ tags:
 
     مسرد شامل لجميع المصطلحات المستخدمة
 
-    [:octicons-arrow-right-24: المصطلحات](glossary_master.md)
+    [:octicons-arrow-right-24: المصطلحات](glossary_master.ar.md)
 
 -   :material-checkbox-marked-circle:{ .lg .middle } **فهرس الامتثال**
 
@@ -32,7 +32,7 @@ tags:
 
     قائمة معايير الامتثال والتنظيم
 
-    [:octicons-arrow-right-24: فهرس الامتثال](compliance_index.md)
+    [:octicons-arrow-right-24: فهرس الامتثال](compliance_index.ar.md)
 
 -   :material-link-variant:{ .lg .middle } **الروابط المرجعية**
 
@@ -40,7 +40,7 @@ tags:
 
     روابط مفيدة وموارد خارجية
 
-    [:octicons-arrow-right-24: الروابط المرجعية](reference_links.md)
+    [:octicons-arrow-right-24: الروابط المرجعية](reference_links.ar.md)
 
 </div>
 
@@ -49,19 +49,19 @@ tags:
 ## الموارد الشائعة
 
 ### للمتخصصين في الرعاية الصحية
-- [مصطلحات المطالبات](glossary_master.md#claims)
-- [معايير الامتثال](compliance_index.md)
-- [لوائح نفيس](reference_links.md#nphies)
+- [مصطلحات المطالبات](glossary_master.ar.md#claims)
+- [معايير الامتثال](compliance_index.ar.md)
+- [لوائح نفيس](reference_links.ar.md#nphies)
 
 ### للمطورين
-- [مصطلحات API](glossary_master.md#api)
-- [معايير FHIR](reference_links.md#fhir)
-- [وثائق التكامل](reference_links.md#integration)
+- [مصطلحات API](glossary_master.ar.md#api)
+- [معايير FHIR](reference_links.ar.md#fhir)
+- [وثائق التكامل](reference_links.ar.md#integration)
 
 ### للإدارة
-- [مصطلحات الأعمال](glossary_master.md#business)
-- [متطلبات الامتثال](compliance_index.md)
-- [موارد السوق](reference_links.md#market)
+- [مصطلحات الأعمال](glossary_master.ar.md#business)
+- [متطلبات الامتثال](compliance_index.ar.md)
+- [موارد السوق](reference_links.ar.md#market)
 
 ---
 

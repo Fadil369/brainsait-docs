@@ -24,7 +24,7 @@ tags:
 
     مقدمة عن مشهد الرعاية الصحية في المملكة العربية السعودية والتحول الرقمي
 
-    [:octicons-arrow-right-24: مقدمة](overview/introduction.md)
+    [:octicons-arrow-right-24: مقدمة](overview/introduction.ar.md)
 
 -   :material-file-document-multiple:{ .lg .middle } **المطالبات**
 
@@ -32,7 +32,7 @@ tags:
 
     إدارة دورة حياة المطالبة، التعامل مع حالات الرفض، وخطوط الأتمتة
 
-    [:octicons-arrow-right-24: دورة حياة المطالبة](claims/lifecycle.md)
+    [:octicons-arrow-right-24: دورة حياة المطالبة](claims/lifecycle.ar.md)
 
 -   :material-api:{ .lg .middle } **نفيس**
 
@@ -40,7 +40,7 @@ tags:
 
     التكامل مع منصة التبادل الوطنية للمعلومات الصحية
 
-    [:octicons-arrow-right-24: نظرة عامة على نفيس](nphies/overview.md)
+    [:octicons-arrow-right-24: نظرة عامة على نفيس](nphies/overview.ar.md)
 
 -   :material-robot:{ .lg .middle } **الوكلاء**
 
@@ -48,7 +48,7 @@ tags:
 
     وكلاء الذكاء الاصطناعي المتخصصون في عمليات الرعاية الصحية
 
-    [:octicons-arrow-right-24: ClaimLinc](agents/ClaimLinc.md)
+    [:octicons-arrow-right-24: ClaimLinc](agents/ClaimLinc.ar.md)
 
 -   :material-clipboard-list:{ .lg .middle } **الإجراءات التشغيلية**
 
@@ -56,7 +56,7 @@ tags:
 
     إجراءات التشغيل القياسية لعمليات الرعاية الصحية
 
-    [:octicons-arrow-right-24: إجراء تقديم المطالبة](sop/claim_submission.md)
+    [:octicons-arrow-right-24: إجراء تقديم المطالبة](sop/claim_submission.ar.md)
 
 -   :material-book-alphabet:{ .lg .middle } **المصطلحات**
 
@@ -64,7 +64,7 @@ tags:
 
     مسرد المصطلحات الشامل للرعاية الصحية
 
-    [:octicons-arrow-right-24: المصطلحات](glossary.md)
+    [:octicons-arrow-right-24: المصطلحات](glossary.ar.md)
 
 </div>
 
@@ -95,10 +95,10 @@ tags:
 
 ## البدء السريع
 
-1. **افهم الأساسيات** - ابدأ بـ [المقدمة](overview/introduction.md)
-2. **تعلم المطالبات** - راجع [دورة حياة المطالبة](claims/lifecycle.md)
-3. **استكشف نفيس** - اطلع على [نظرة عامة على نفيس](nphies/overview.md)
-4. **استخدم الوكلاء** - انشر [ClaimLinc](agents/ClaimLinc.md)
+1. **افهم الأساسيات** - ابدأ بـ [المقدمة](overview/introduction.ar.md)
+2. **تعلم المطالبات** - راجع [دورة حياة المطالبة](claims/lifecycle.ar.md)
+3. **استكشف نفيس** - اطلع على [نظرة عامة على نفيس](nphies/overview.ar.md)
+4. **استخدم الوكلاء** - انشر [ClaimLinc](agents/ClaimLinc.ar.md)
 
 ---
 
@@ -117,6 +117,6 @@ tags:
 
 للحصول على المساعدة في حلول الرعاية الصحية:
 
-- راجع [المصطلحات](glossary.md) للتعريفات
-- اتبع [الإجراءات التشغيلية](sop/claim_submission.md) للعمليات
-- استخدم [أنواع الرفض](claims/rejection_types.md) للتعامل مع المشاكل
+- راجع [المصطلحات](glossary.ar.md) للتعريفات
+- اتبع [الإجراءات التشغيلية](sop/claim_submission.ar.md) للعمليات
+- استخدم [أنواع الرفض](claims/rejection_types.ar.md) للتعامل مع المشاكل

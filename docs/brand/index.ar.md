@@ -24,7 +24,7 @@ tags:
 
     لوحة الألوان الرسمية واستخداماتها
 
-    [:octicons-arrow-right-24: الألوان](colors.md)
+    [:octicons-arrow-right-24: الألوان](colors.ar.md)
 
 -   :material-format-font:{ .lg .middle } **الخطوط**
 
@@ -32,7 +32,7 @@ tags:
 
     الخطوط المعتمدة وقواعد الاستخدام
 
-    [:octicons-arrow-right-24: الخطوط](typography.md)
+    [:octicons-arrow-right-24: الخطوط](typography.ar.md)
 
 -   :material-map:{ .lg .middle } **خريطة وكلاء LINC**
 
@@ -40,7 +40,7 @@ tags:
 
     التمثيل البصري لمنظومة الوكلاء
 
-    [:octicons-arrow-right-24: خريطة الوكلاء](linc_agents_map.md)
+    [:octicons-arrow-right-24: خريطة الوكلاء](linc_agents_map.ar.md)
 
 -   :material-file-document:{ .lg .middle } **القوالب**
 
@@ -48,7 +48,7 @@ tags:
 
     قوالب الوثائق والتقارير
 
-    [:octicons-arrow-right-24: القوالب](templates/prd_template.md)
+    [:octicons-arrow-right-24: القوالب](templates/prd_template.ar.md)
 
 </div>
 
@@ -79,10 +79,10 @@ tags:
 
 ## القوالب المتاحة
 
-- [قالب PRD](templates/prd_template.md) - وثيقة متطلبات المنتج
-- [قالب SOP](templates/sop_template.md) - إجراء تشغيل قياسي
-- [قالب API](templates/api_template.md) - توثيق الواجهات
-- [قالب التقرير](templates/report_template.md) - التقارير الفنية
+- [قالب PRD](templates/prd_template.ar.md) - وثيقة متطلبات المنتج
+- [قالب SOP](templates/sop_template.ar.md) - إجراء تشغيل قياسي
+- [قالب API](templates/api_template.ar.md) - توثيق الواجهات
+- [قالب التقرير](templates/report_template.ar.md) - التقارير الفنية
 
 ---
 

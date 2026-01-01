@@ -24,7 +24,7 @@ tags:
 
     الرؤية والرسالة وتوافق السوق مع رؤية 2030
 
-    [:octicons-arrow-right-24: الرؤية والرسالة](strategy/mission_vision.md)
+    [:octicons-arrow-right-24: الرؤية والرسالة](strategy/mission_vision.ar.md)
 
 -   :material-package-variant:{ .lg .middle } **المنتجات**
 
@@ -32,7 +32,7 @@ tags:
 
     خريطة المنظومة ونماذج التسعير
 
-    [:octicons-arrow-right-24: خريطة المنظومة](products/ecosystem_map.md)
+    [:octicons-arrow-right-24: خريطة المنظومة](products/ecosystem_map.ar.md)
 
 -   :material-handshake:{ .lg .middle } **الشركاء**
 
@@ -40,7 +40,7 @@ tags:
 
     إدارة الشركاء وإرشادات الموردين
 
-    [:octicons-arrow-right-24: إدارة الشركاء](partners/partner_management.md)
+    [:octicons-arrow-right-24: إدارة الشركاء](partners/partner_management.ar.md)
 
 -   :material-bullhorn:{ .lg .middle } **التسويق**
 
@@ -48,7 +48,7 @@ tags:
 
     الهوية التجارية وأدلة المبيعات
 
-    [:octicons-arrow-right-24: الهوية التجارية](brand_identity.md)
+    [:octicons-arrow-right-24: الهوية التجارية](brand_identity.ar.md)
 
 -   :material-file-document-edit:{ .lg .middle } **المناقصات**
 
@@ -56,7 +56,7 @@ tags:
 
     أدلة الاستجابة والقوالب
 
-    [:octicons-arrow-right-24: دليل الاستجابة](rfps/response_guide.md)
+    [:octicons-arrow-right-24: دليل الاستجابة](rfps/response_guide.ar.md)
 
 -   :material-finance:{ .lg .middle } **المالية**
 
@@ -64,7 +64,7 @@ tags:
 
     مصادر الإيرادات والنماذج المالية
 
-    [:octicons-arrow-right-24: نظرة مالية عامة](financials/overview.md)
+    [:octicons-arrow-right-24: نظرة مالية عامة](financials/overview.ar.md)
 
 </div>
 
@@ -95,6 +95,6 @@ tags:
 
 ## البدء
 
-1. راجع [الرؤية والرسالة](strategy/mission_vision.md)
-2. استكشف [خريطة المنظومة](products/ecosystem_map.md)
-3. اطلع على [خطة التسويق](marketing/marketing_plan.md)
+1. راجع [الرؤية والرسالة](strategy/mission_vision.ar.md)
+2. استكشف [خريطة المنظومة](products/ecosystem_map.ar.md)
+3. اطلع على [خطة التسويق](marketing/marketing_plan.ar.md)
