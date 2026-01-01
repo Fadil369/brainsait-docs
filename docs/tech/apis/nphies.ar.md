@@ -1,5 +1,6 @@
 ---
 title: NPHIES Integration API
+language: ar
 ---
 
 !!! info "Translation in Progress / الترجمة قيد الإجراء"

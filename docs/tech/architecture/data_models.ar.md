@@ -1,3 +1,8 @@
+---
+title: "data_models"
+language: ar
+---
+
 # نماذج البيانات
 
 ## نماذج FHIR

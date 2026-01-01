@@ -1,5 +1,6 @@
 ---
 title: Partner Management
+language: ar
 ---
 
 !!! info "Translation in Progress / الترجمة قيد الإجراء"

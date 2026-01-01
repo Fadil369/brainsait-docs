@@ -1,5 +1,6 @@
 ---
 title: التقنية
+language: ar
 description: البنية التحتية التقنية والوكلاء والتطبيقات لبرينسايت
 tags:
   - tech

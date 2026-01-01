@@ -1,3 +1,8 @@
+---
+title: "Index"
+language: en
+---
+
 # Cloudpital Integration
 
 ## Welcome to Cloudpital Documentation

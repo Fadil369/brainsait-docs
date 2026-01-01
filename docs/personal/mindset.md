@@ -1,3 +1,8 @@
+---
+title: "Mindset"
+language: en
+---
+
 # Mindset
 
 ## Overview

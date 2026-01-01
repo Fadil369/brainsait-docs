@@ -1,3 +1,8 @@
+---
+title: "Healthsync"
+language: en
+---
+
 # HealthSync Platform
 
 ## Overview

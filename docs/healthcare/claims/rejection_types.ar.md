@@ -1,3 +1,8 @@
+---
+title: "rejection_types"
+language: ar
+---
+
 # أنواع رفض المطالبات
 
 ## نظرة عامة

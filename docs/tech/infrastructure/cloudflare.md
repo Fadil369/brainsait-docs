@@ -1,3 +1,8 @@
+---
+title: "Cloudflare"
+language: en
+---
+
 # Cloudflare Infrastructure
 
 We use Cloudflare for:

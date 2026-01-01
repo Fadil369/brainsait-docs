@@ -1,5 +1,6 @@
 ---
 title: الملاحق
+language: ar
 description: المراجع والفهارس الشاملة
 tags:
   - appendices

@@ -1,3 +1,8 @@
+---
+title: "Competitive Landscape"
+language: en
+---
+
 # Competitive Landscape
 
 ## Overview

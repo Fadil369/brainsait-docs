@@ -1,3 +1,8 @@
+---
+title: "Emr Features"
+language: en
+---
+
 # Cloudpital EMR Features
 
 ## Overview

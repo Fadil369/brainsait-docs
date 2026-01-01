@@ -1,3 +1,8 @@
+---
+title: "reflections"
+language: ar
+---
+
 # التأملات
 
 ## نظرة عامة

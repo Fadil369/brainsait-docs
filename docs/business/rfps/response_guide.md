@@ -1,3 +1,8 @@
+---
+title: "Response Guide"
+language: en
+---
+
 # RFP Response Guide
 
 ## Overview

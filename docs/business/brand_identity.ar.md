@@ -1,3 +1,8 @@
+---
+title: "brand_identity"
+language: ar
+---
+
 # هوية العلامة التجارية
 
 ## نظرة عامة

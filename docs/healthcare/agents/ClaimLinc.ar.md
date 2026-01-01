@@ -1,5 +1,6 @@
 ---
 title: ClaimLinc Agent | وكيل كليم لينك
+language: ar
 description: Intelligent claim validation and rejection analysis agent
 tags:
   - agent

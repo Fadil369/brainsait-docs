@@ -1,3 +1,8 @@
+---
+title: "Rcm Capabilities"
+language: en
+---
+
 # Cloudpital Revenue Cycle Management (RCM) Capabilities
 
 ## Overview

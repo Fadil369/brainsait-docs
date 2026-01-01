@@ -1,3 +1,8 @@
+---
+title: "Starlink Hybrid"
+language: en
+---
+
 # Starlink Hybrid Network
 
 ## Overview

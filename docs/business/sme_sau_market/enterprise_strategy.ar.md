@@ -1,3 +1,8 @@
+---
+title: "enterprise_strategy"
+language: ar
+---
+
 # استراتيجية المؤسسات
 
 ## نظرة عامة

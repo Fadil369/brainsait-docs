@@ -1,3 +1,8 @@
+---
+title: "coolify"
+language: ar
+---
+
 # Coolify
 
 نستخدم Coolify لـ:

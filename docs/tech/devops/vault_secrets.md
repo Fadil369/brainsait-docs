@@ -1,3 +1,8 @@
+---
+title: "Vault Secrets"
+language: en
+---
+
 # Vault & Secrets Management
 
 ## Overview

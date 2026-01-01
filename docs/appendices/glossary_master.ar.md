@@ -1,5 +1,6 @@
 ---
 title: Master Glossary | المصطلحات الشاملة
+language: ar
 description: Comprehensive bilingual glossary for BrainSAIT documentation
 tags:
   - glossary

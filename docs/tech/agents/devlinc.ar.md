@@ -1,3 +1,8 @@
+---
+title: "devlinc"
+language: ar
+---
+
 # وكيل DevLinc
 
 ## نظرة عامة

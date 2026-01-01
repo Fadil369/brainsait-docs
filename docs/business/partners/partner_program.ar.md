@@ -1,3 +1,8 @@
+---
+title: "partner_program"
+language: ar
+---
+
 # برنامج الشركاء
 
 ## نظرة عامة

@@ -1,3 +1,8 @@
+---
+title: "pricing_models"
+language: ar
+---
+
 # نماذج التسعير
 
 ## نظرة عامة

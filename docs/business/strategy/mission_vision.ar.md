@@ -1,5 +1,6 @@
 ---
 title: رؤية ورسالة برينسايت
+language: ar
 domain: business
 chapter: strategy
 version: 1.0.0

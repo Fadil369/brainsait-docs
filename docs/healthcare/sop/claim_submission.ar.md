@@ -1,3 +1,8 @@
+---
+title: "claim_submission"
+language: ar
+---
+
 # إجراء تقديم المطالبة
 
 ## الغرض

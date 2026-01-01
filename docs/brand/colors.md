@@ -1,3 +1,8 @@
+---
+title: "Colors"
+language: en
+---
+
 # Brand Colors
 
 ## Overview

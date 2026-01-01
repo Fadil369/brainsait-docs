@@ -1,3 +1,8 @@
+---
+title: "Market Analysis"
+language: en
+---
+
 # Market Analysis
 
 ## Executive Summary

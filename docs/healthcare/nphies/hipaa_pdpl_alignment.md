@@ -1,3 +1,8 @@
+---
+title: "Hipaa Pdpl Alignment"
+language: en
+---
+
 # HIPAA & PDPL Alignment
 
 ## Overview

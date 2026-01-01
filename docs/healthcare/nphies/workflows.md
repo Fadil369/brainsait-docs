@@ -1,3 +1,8 @@
+---
+title: "Workflows"
+language: en
+---
+
 # NPHIES Workflows
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+title: "Raspberry Cluster"
+language: en
+---
+
 # Raspberry Pi Cluster
 
 ## Overview

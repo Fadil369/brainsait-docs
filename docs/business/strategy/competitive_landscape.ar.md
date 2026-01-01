@@ -1,3 +1,8 @@
+---
+title: "competitive_landscape"
+language: ar
+---
+
 # المشهد التنافسي
 
 ## نظرة عامة

@@ -1,3 +1,8 @@
+---
+title: "marketing_plan"
+language: ar
+---
+
 # خطة التسويق
 
 ## الملخص التنفيذي

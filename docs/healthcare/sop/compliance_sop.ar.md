@@ -1,3 +1,8 @@
+---
+title: "compliance_sop"
+language: ar
+---
+
 # إجراءات الامتثال للرعاية الصحية
 
 ## الغرض

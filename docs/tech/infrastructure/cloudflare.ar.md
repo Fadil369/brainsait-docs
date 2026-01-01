@@ -1,3 +1,8 @@
+---
+title: "cloudflare"
+language: ar
+---
+
 # البنية التحتية لـ Cloudflare
 
 نستخدم Cloudflare لـ:

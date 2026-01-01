@@ -1,5 +1,6 @@
 ---
 title: Product Catalog
+language: ar
 domain: business
 chapter: products
 version: 1.0.0

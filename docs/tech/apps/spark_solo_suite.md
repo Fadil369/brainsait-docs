@@ -1,3 +1,8 @@
+---
+title: "Spark Solo Suite"
+language: en
+---
+
 # Spark Solo Suite
 
 ## Overview

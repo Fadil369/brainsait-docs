@@ -1,3 +1,8 @@
+---
+title: "monitoring"
+language: ar
+---
+
 # المراقبة والملاحظة
 
 ## نظرة عامة

@@ -1,5 +1,6 @@
 ---
 title: "قوالب Slack"
+language: ar
 description: "قوالب قنوات Slack بعلامة Brainsait التجارية لسير العمل المؤسسي"
 tags:
   - قوالب

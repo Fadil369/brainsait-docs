@@ -1,3 +1,8 @@
+---
+title: "automation_pipeline"
+language: ar
+---
+
 # خط أتمتة المطالبات
 
 ## نظرة عامة

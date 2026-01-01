@@ -1,3 +1,8 @@
+---
+title: "ecosystem_map"
+language: ar
+---
+
 # خريطة منظومة BrainSAIT
 
 ## نظرة عامة

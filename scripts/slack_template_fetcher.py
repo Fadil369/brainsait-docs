@@ -271,6 +271,7 @@ class MarkdownTranslator:
         link_pattern = r'\[([^\]]+)\]\(([^)]+)\)'
 
         def store_link(match):
+            """Store link match and return placeholder."""
             links.append((match.group(1), match.group(2)))
             return f'[[LINK_{len(links)-1}]]'
 
@@ -281,6 +282,7 @@ class MarkdownTranslator:
         inline_pattern = r'`([^`]+)`'
 
         def store_code(match):
+            """Store code match and return placeholder."""
             inline_codes.append(match.group(1))
             return f'[[CODE_{len(inline_codes)-1}]]'
 
@@ -325,7 +327,13 @@ class MarkdownTranslator:
 class BrainsaitTemplateGenerator:
     """Generates Brainsait-branded templates."""
 
-    def __init__(self, output_dir: str = "docs/brand/templates/slack"):
+    def __init__(self, output_dir: str = "docs/brand/templates/slack") -> None:
+        """
+        Initialize BrainsaitTemplateGenerator.
+        
+        Args:
+            output_dir: Directory path for output templates (default: "docs/brand/templates/slack")
+        """
         self.output_dir = Path(output_dir)
         self.translator = MarkdownTranslator()
         self.converter = SlackTemplateConverter()
@@ -684,8 +692,13 @@ tags:
         print(f"Saved: {ar_path}")
 
 
-def generate_all_templates():
-    """Generate all Brainsait-branded templates."""
+def generate_all_templates() -> None:
+    """
+    Generate all Brainsait-branded templates.
+    
+    Creates both English and Arabic versions of all Slack templates
+    defined in SLACK_CHANNEL_TEMPLATES.
+    """
     generator = BrainsaitTemplateGenerator()
 
     for template_name in SLACK_CHANNEL_TEMPLATES:

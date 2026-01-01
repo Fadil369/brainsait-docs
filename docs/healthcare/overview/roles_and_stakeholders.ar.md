@@ -1,3 +1,8 @@
+---
+title: "roles_and_stakeholders"
+language: ar
+---
+
 # الأدوار وأصحاب المصلحة
 
 ## نظرة عامة

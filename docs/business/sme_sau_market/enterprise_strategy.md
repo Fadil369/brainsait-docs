@@ -1,3 +1,8 @@
+---
+title: "Enterprise Strategy"
+language: en
+---
+
 # Enterprise Strategy
 
 ## Overview

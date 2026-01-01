@@ -1,3 +1,8 @@
+---
+title: "healthsync"
+language: ar
+---
+
 # منصة HealthSync
 
 ## نظرة عامة

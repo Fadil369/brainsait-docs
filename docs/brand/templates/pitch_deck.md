@@ -1,3 +1,8 @@
+---
+title: "Pitch Deck"
+language: en
+---
+
 # Pitch Deck Template
 
 ## Overview

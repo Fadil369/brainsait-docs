@@ -1,3 +1,8 @@
+---
+title: "ksa_health_landscape"
+language: ar
+---
+
 # المشهد الصحي في المملكة العربية السعودية
 
 ## نظرة عامة

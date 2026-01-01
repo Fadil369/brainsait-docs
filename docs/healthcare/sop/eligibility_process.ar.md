@@ -1,3 +1,8 @@
+---
+title: "eligibility_process"
+language: ar
+---
+
 # إجراء التحقق من الأهلية
 
 ## الغرض

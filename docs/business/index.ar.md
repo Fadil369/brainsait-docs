@@ -1,5 +1,6 @@
 ---
 title: الأعمال
+language: ar
 description: استراتيجية الأعمال والمنتجات والشراكات لبرينسايت
 tags:
   - business

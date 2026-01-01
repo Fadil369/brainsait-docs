@@ -1,5 +1,6 @@
 ---
 title: المصطلحات
+language: ar
 description: مسرد مصطلحات الرعاية الصحية
 tags:
   - glossary

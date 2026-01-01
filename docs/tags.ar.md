@@ -1,5 +1,6 @@
 ---
 title: Tags | الوسوم
+language: ar
 description: Browse documentation by tags
 hide:
   - navigation

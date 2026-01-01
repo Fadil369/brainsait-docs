@@ -1,3 +1,8 @@
+---
+title: "datalinc"
+language: ar
+---
+
 # وكيل DataLinc
 
 ## نظرة عامة

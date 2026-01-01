@@ -1,3 +1,8 @@
+---
+title: "Ethics Ai Oi"
+language: en
+---
+
 # Ethics & AI
 
 ## Overview

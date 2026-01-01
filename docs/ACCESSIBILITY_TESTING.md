@@ -1,3 +1,9 @@
+---
+title: Accessibility Testing Guide
+description: Comprehensive guide for testing accessibility of BrainSAIT documentation to ensure WCAG 2.2 Level AA compliance
+language: en
+---
+
 # Accessibility Testing Guide
 
 This guide provides comprehensive instructions for testing the accessibility of BrainSAIT documentation to ensure WCAG 2.2 Level AA compliance.

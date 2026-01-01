@@ -1,3 +1,8 @@
+---
+title: "Authentication"
+language: en
+---
+
 # API Authentication
 
 ## Overview

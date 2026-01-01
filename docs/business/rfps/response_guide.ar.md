@@ -1,3 +1,8 @@
+---
+title: "response_guide"
+language: ar
+---
+
 # دليل الاستجابة لطلبات العروض
 
 ## نظرة عامة

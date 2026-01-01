@@ -1,3 +1,8 @@
+---
+title: "raspberry_cluster"
+language: ar
+---
+
 # مجموعة Raspberry Pi
 
 ## نظرة عامة

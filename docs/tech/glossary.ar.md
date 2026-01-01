@@ -1,3 +1,8 @@
+---
+title: "glossary"
+language: ar
+---
+
 # قاموس المصطلحات التقنية
 
 ## A

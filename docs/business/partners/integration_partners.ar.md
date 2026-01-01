@@ -1,3 +1,8 @@
+---
+title: "integration_partners"
+language: ar
+---
+
 # شركاء التكامل
 
 ## نظرة عامة

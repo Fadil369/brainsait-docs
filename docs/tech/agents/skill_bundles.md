@@ -1,3 +1,8 @@
+---
+title: "Skill Bundles"
+language: en
+---
+
 # Skill Bundles
 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 title: LINC Agent Ecosystem
+language: ar
 domain: tech
 chapter: agents
 version: 2.0.0

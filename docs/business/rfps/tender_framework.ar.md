@@ -1,3 +1,8 @@
+---
+title: "tender_framework"
+language: ar
+---
+
 # إطار المناقصات
 
 ## نظرة عامة

@@ -1,3 +1,8 @@
+---
+title: "Gtm Strategy"
+language: en
+---
+
 # Go-to-Market Strategy
 
 ## Executive Summary

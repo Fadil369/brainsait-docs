@@ -1,3 +1,9 @@
+---
+title: Documentation Maintenance Guide
+description: Ongoing maintenance procedures for the BrainSAIT Knowledge System documentation
+language: en
+---
+
 # Documentation Maintenance Guide
 
 This guide outlines the ongoing maintenance procedures for the BrainSAIT Knowledge System documentation to ensure it remains current, compliant, and valuable.

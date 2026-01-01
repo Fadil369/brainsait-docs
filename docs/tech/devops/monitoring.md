@@ -1,3 +1,8 @@
+---
+title: "Monitoring"
+language: en
+---
+
 # Monitoring & Observability
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+title: "Integration Partners"
+language: en
+---
+
 # Integration Partners
 
 ## Overview

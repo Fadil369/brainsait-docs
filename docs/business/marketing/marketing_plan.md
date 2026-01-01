@@ -1,3 +1,8 @@
+---
+title: "Marketing Plan"
+language: en
+---
+
 # Marketing Plan
 
 ## Executive Summary

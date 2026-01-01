@@ -1,3 +1,8 @@
+---
+title: "mindset"
+language: ar
+---
+
 # العقلية
 
 ## نظرة عامة

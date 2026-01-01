@@ -1,3 +1,8 @@
+---
+title: "spark_solo_suite"
+language: ar
+---
+
 # مجموعة Spark Solo
 
 ## نظرة عامة

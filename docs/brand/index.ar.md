@@ -1,5 +1,6 @@
 ---
 title: العلامة التجارية
+language: ar
 description: إرشادات الهوية البصرية لبرينسايت
 tags:
   - brand

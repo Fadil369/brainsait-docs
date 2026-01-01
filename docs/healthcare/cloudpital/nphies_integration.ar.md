@@ -1,3 +1,8 @@
+---
+title: "nphies_integration"
+language: ar
+---
+
 # تكامل كلاودبيتال مع نفيس
 
 ## نظرة عامة

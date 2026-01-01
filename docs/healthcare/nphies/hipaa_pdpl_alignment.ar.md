@@ -1,3 +1,8 @@
+---
+title: "hipaa_pdpl_alignment"
+language: ar
+---
+
 # التوافق بين HIPAA ونظام حماية البيانات الشخصية
 
 ## نظرة عامة

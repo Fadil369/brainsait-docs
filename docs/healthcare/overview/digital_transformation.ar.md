@@ -1,3 +1,8 @@
+---
+title: "digital_transformation"
+language: ar
+---
+
 # التحول الرقمي في الرعاية الصحية السعودية
 
 ## الملخص التنفيذي

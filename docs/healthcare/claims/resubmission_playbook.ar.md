@@ -1,3 +1,8 @@
+---
+title: "resubmission_playbook"
+language: ar
+---
+
 # دليل إعادة تقديم المطالبات
 
 ## نظرة عامة

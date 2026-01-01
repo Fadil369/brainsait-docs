@@ -1,3 +1,8 @@
+---
+title: "Resubmission Playbook"
+language: en
+---
+
 # Claim Resubmission Playbook
 
 ## Overview

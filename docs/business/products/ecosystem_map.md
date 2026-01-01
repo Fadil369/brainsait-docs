@@ -1,3 +1,8 @@
+---
+title: "Ecosystem Map"
+language: en
+---
+
 # BrainSAIT Ecosystem Map
 
 ## Overview

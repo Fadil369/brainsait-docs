@@ -1,3 +1,8 @@
+---
+title: "market_analysis"
+language: ar
+---
+
 # تحليل السوق
 
 ## الملخص التنفيذي

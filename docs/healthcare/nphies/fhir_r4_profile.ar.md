@@ -1,3 +1,8 @@
+---
+title: "fhir_r4_profile"
+language: ar
+---
+
 # مرجع ملف FHIR R4
 
 ## نظرة عامة

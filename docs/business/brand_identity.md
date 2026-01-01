@@ -1,3 +1,8 @@
+---
+title: "Brand Identity"
+language: en
+---
+
 # Brand Identity
 
 ## Overview

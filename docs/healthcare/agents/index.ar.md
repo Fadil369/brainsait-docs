@@ -1,5 +1,6 @@
 ---
 title: BrainSAIT Agents in Healthcare
+language: ar
 domain: healthcare
 chapter: agents
 version: 1.0.0

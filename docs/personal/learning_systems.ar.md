@@ -1,3 +1,8 @@
+---
+title: "learning_systems"
+language: ar
+---
+
 # أنظمة التعلم
 
 ## نظرة عامة

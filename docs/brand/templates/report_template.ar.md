@@ -1,5 +1,6 @@
 ---
 title: Report Template | قالب التقرير
+language: ar
 description: Standard template for BrainSAIT reports and analysis documents
 tags:
   - template

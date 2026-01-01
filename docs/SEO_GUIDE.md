@@ -1,3 +1,9 @@
+---
+title: SEO and Metadata Guide
+description: Best practices for optimizing documentation pages for search engines and social media sharing
+language: en
+---
+
 # SEO and Metadata Guide
 
 This guide provides best practices for optimizing documentation pages for search engines and social media sharing.

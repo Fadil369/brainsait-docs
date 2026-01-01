@@ -1,3 +1,8 @@
+---
+title: "Sme Playbook"
+language: en
+---
+
 # SME Playbook
 
 ## Overview

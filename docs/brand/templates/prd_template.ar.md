@@ -1,5 +1,6 @@
 ---
 title: PRD Template | قالب وثيقة متطلبات المنتج
+language: ar
 description: Standard template for BrainSAIT Product Requirements Documents
 tags:
   - template

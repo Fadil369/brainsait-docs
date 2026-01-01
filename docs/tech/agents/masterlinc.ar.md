@@ -1,3 +1,8 @@
+---
+title: "masterlinc"
+language: ar
+---
+
 # MasterLinc
 
 **الدور**: وكيل التنسيق

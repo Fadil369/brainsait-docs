@@ -1,3 +1,8 @@
+---
+title: "DocsLinc"
+language: ar
+---
+
 # وكيل دوكس لينك
 
 ## نظرة عامة

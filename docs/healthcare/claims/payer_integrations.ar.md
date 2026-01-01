@@ -1,3 +1,8 @@
+---
+title: "payer_integrations"
+language: ar
+---
+
 # تكاملات الدافعين
 
 ## نظرة عامة

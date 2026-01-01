@@ -1,3 +1,8 @@
+---
+title: "authentication"
+language: ar
+---
+
 # مصادقة API
 
 ## نظرة عامة

@@ -1,5 +1,6 @@
 ---
 title: الرعاية الصحية
+language: ar
 description: منصة برينسايت الشاملة للذكاء الاصطناعي في الرعاية الصحية
 tags:
   - healthcare

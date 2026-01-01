@@ -1,3 +1,8 @@
+---
+title: "leadership"
+language: ar
+---
+
 # القيادة
 
 ## نظرة عامة

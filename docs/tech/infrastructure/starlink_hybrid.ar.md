@@ -1,3 +1,8 @@
+---
+title: "starlink_hybrid"
+language: ar
+---
+
 # شبكة Starlink الهجينة
 
 ## نظرة عامة

@@ -1,3 +1,8 @@
+---
+title: "skill_bundles"
+language: ar
+---
+
 # حزم المهارات
 
 ## نظرة عامة

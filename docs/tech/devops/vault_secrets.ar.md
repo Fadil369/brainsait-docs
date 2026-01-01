@@ -1,3 +1,8 @@
+---
+title: "vault_secrets"
+language: ar
+---
+
 # إدارة Vault والأسرار
 
 ## نظرة عامة

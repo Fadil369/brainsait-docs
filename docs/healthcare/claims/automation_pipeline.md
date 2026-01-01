@@ -1,3 +1,8 @@
+---
+title: "Automation Pipeline"
+language: en
+---
+
 # Claims Automation Pipeline
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+title: "Pricing Models"
+language: en
+---
+
 # Pricing Models
 
 ## Overview

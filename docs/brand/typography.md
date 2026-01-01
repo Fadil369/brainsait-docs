@@ -1,3 +1,8 @@
+---
+title: "Typography"
+language: en
+---
+
 # Typography
 
 ## Overview

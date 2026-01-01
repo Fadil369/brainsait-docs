@@ -1,3 +1,8 @@
+---
+title: "efhm_rag"
+language: ar
+---
+
 # تطبيق EFHM RAG
 
 ## نظرة عامة

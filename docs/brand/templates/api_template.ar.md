@@ -1,5 +1,6 @@
 ---
 title: API Documentation Template | قالب توثيق واجهة البرمجة
+language: ar
 description: Standard template for BrainSAIT API documentation
 tags:
   - template

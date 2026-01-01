@@ -1,3 +1,8 @@
+---
+title: "compliance_index"
+language: ar
+---
+
 # فهرس الامتثال
 
 ## نظرة عامة

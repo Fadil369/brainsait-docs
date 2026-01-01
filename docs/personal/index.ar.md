@@ -1,5 +1,6 @@
 ---
 title: التطوير الشخصي
+language: ar
 description: موارد التطوير الشخصي والقيادة
 tags:
   - personal

@@ -1,5 +1,6 @@
 ---
 title: SOP Template | قالب إجراءات التشغيل القياسية
+language: ar
 description: Standard template for BrainSAIT Standard Operating Procedures
 tags:
   - template

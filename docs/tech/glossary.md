@@ -1,3 +1,8 @@
+---
+title: "Glossary"
+language: en
+---
+
 # Tech Glossary
 
 ## A

@@ -1,3 +1,8 @@
+---
+title: "Rejection Types"
+language: en
+---
+
 # Claim Rejection Types
 
 ## Overview
