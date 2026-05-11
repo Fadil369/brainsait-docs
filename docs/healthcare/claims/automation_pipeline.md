@@ -244,37 +244,37 @@ graph TB
 
 ### HIS/EMR Integration
 
-#### Cloudpital EMR Integration
+#### BrainSAIT EMR Integration
 
-BrainSAIT provides **native integration** with Cloudpital's cloud-based EMR system, enabling seamless claims automation:
+BrainSAIT provides **native integration** with any FHIR-compatible EMR/HIS system, enabling seamless claims automation:
 
 **Integration Architecture:**
 ```mermaid
 graph LR
-    A[Cloudpital EMR] --> B[BrainSAIT API Gateway]
+    A[EMR / HIS] --> B[BrainSAIT API Gateway]
     B --> C[ClaimLinc Validation]
     C --> D[NPHIES Submission]
-    D --> E[Response to Cloudpital]
+    D --> E[Response to EMR]
 ```
 
 **Real-Time Data Sync:**
-- Automatic encounter capture from Cloudpital
+- Automatic encounter capture from connected EMR
 - Real-time charge posting and validation
 - Bi-directional claim status updates
 - Integrated denial management workflow
 
-**Pre-Built Cloudpital Connector:**
+**BrainSAIT FHIR Connector:**
 ```python
-from brainsait.integrations import CloudpitalConnector
+from brainsait.integrations import FHIRConnector
 
-# Initialize Cloudpital connection
-cloudpital = CloudpitalConnector(
-    api_endpoint="https://api.cloudpital.com",
+# Initialize FHIR connection (works with any FHIR R4 EMR)
+connector = FHIRConnector(
+    fhir_endpoint="https://your-emr.example.com/fhir",
     credentials=credentials
 )
 
 # Auto-fetch unbilled encounters
-encounters = cloudpital.get_unbilled_encounters(
+encounters = connector.get_unbilled_encounters(
     date_range="last_7_days"
 )
 
@@ -282,10 +282,10 @@ encounters = cloudpital.get_unbilled_encounters(
 for encounter in encounters:
     claim = claim_linc.process_encounter(encounter)
     if claim.validation_score > 0.95:
-        cloudpital.submit_to_nphies(claim)
+        connector.submit_to_nphies(claim)
 ```
 
-**Benefits of Cloudpital Integration:**
+**Benefits of BrainSAIT Integration:**
 - ✅ Zero manual data entry
 - ✅ Real-time claim validation
 - ✅ Automated coding suggestions
@@ -294,7 +294,7 @@ for encounter in encounters:
 
 **Generic HIS/EMR Integration**
 
-For non-Cloudpital systems, we support standard methods:
+For any connected HIS/EMR system, we support standard methods:
 
 **Methods:**
 - HL7 FHIR R4
@@ -385,8 +385,8 @@ For non-Cloudpital systems, we support standard methods:
 - [ClaimLinc Agent](../agents/ClaimLinc.md)
 - [NPHIES API Reference](../nphies/api_reference.md)
 - [DevOps CI/CD](../../tech/devops/cicd.md)
-- **[Cloudpital Integration](../cloudpital/index.md)** - Complete integration guide
-- **[Cloudpital RCM](../cloudpital/rcm_capabilities.md)** - Revenue cycle features
+- **[BrainSAIT Platform](../platform/index.md)** - Complete integration guide
+- **[BrainSAIT HnH Portal](../platform/hnh_portal.md)** - Patient wellness portal
 
 ---
 

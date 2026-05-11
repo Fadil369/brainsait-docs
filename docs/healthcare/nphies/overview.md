@@ -27,15 +27,15 @@ It uses **FHIR R4** as the base standard.
 
 A single failed field can reject the entire claim.
 
-## Cloudpital + BrainSAIT NPHIES Solution
+## BrainSAIT NPHIES Solution
 
-**Cloudpital** provides NPHIES-certified EMR and RCM capabilities, while **BrainSAIT** adds AI-powered intelligence for claim optimization and automation.
+**BrainSAIT** provides a fully integrated NPHIES-certified healthcare platform with AI-powered intelligence for claim optimization and automation.
 
 ### Unified Architecture
 
 ```mermaid
 graph TB
-    subgraph "Cloudpital Platform"
+    subgraph "EMR / HIS Layer"
         A[EMR Module]
         B[RCM Module]
         C[NPHIES Gateway]
@@ -69,7 +69,7 @@ graph TB
 
 ### Integration Benefits
 
-| Feature | Cloudpital Only | + BrainSAIT AI |
+| Feature | Without BrainSAIT | With BrainSAIT AI |
 |---------|-----------------|----------------|
 | **Clean Claim Rate** | 92-94% | 98%+ |
 | **Denial Rate** | 6-8% | <3% |
@@ -80,14 +80,14 @@ graph TB
 ### Key Capabilities
 
 1. **Pre-Submission Validation** - ClaimLinc validates all FHIR resources before submission
-2. **Real-Time Eligibility** - PolicyLinc enhances Cloudpital's eligibility with AI predictions
+2. **Real-Time Eligibility** - PolicyLinc enhances eligibility checks with AI predictions
 3. **Document Intelligence** - DocsLinc extracts clinical data for NPHIES attachments
 4. **Denial Prevention** - Predictive analytics identify issues before submission
 5. **Automated Resubmission** - Intelligent correction and auto-retry for denials
 
 ### Getting Started
 
-See the comprehensive [Cloudpital NPHIES Integration Guide](../cloudpital/nphies_integration.md) for:
+See the comprehensive [BrainSAIT Platform Guide](../platform/brainsait_platform.md) for:
 - Detailed API workflows
 - FHIR resource examples
 - BrainSAIT integration code

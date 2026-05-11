@@ -120,7 +120,7 @@ Track BrainSAIT healthcare sales opportunities from qualification through closed
 1. **Claims Volume**: Monthly claims through NPHIES?
 2. **Rejection Rate**: Current first-pass rejection rate?
 3. **Payer Mix**: Largest payers? (Bupa, Tawuniya, Medgulf?)
-4. **EMR/HIS**: Current clinical system? (Cloudpital, Epic, Cerner?)
+4. **EMR/HIS**: Current clinical system? (BrainSAIT, Epic, Cerner?)
 5. **RCM Team**: FTEs handling claims and denials?
 6. **Pain Points**: Where do you lose most time/money?
 

@@ -1462,7 +1462,7 @@ img#hero-image {
    PREMIUM UI ENHANCEMENTS v5.0 (shadcn-inspired)
    ========================================== */
 
-/* BrainSAIT Brand Colors (no longer Cloudpital) */
+/* BrainSAIT Brand Colors */
 :root {
   --color-brainsait-primary: #3B82F6;
   --color-brainsait-secondary: #2DD4BF;
@@ -1548,7 +1548,7 @@ img#hero-image {
   color: #EF4444;
 }
 
-.badge--cloudpital {
+.badge--brainsait {
   background: rgba(59, 130, 246, 0.2);
   color: var(--color-brainsait-primary);
 }
