@@ -48,7 +48,8 @@ sequenceDiagram
     BS-->>HnH: Display time options
     P->>HnH: Select preferred slot
     HnH->>Clinic: Confirm booking
-    Clinic-->>P: Confirmation + reminders
+    Clinic-->>HnH: Booking confirmed
+    HnH-->>P: Confirmation + reminders
 ```
 
 - **Real-time slot availability** across connected healthcare providers
