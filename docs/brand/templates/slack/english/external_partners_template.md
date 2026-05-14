@@ -60,7 +60,7 @@ Manage BrainSAIT partner ecosystem—EMR vendors, implementation partners, resel
 🏥 EMR/HIS Partners
 ├── Epic Systems
 ├── Cerner (Oracle Health)
-├── Cloudpital
+├── BrainSAIT (hnh.brainsait.org)
 ├── InterSystems
 └── Local Saudi EMR vendors
 

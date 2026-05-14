@@ -68,7 +68,7 @@ docs/
 │   ├── claims/          # Claims & reimbursement
 │   ├── nphies/          # NPHIES integration
 │   ├── agents/          # Healthcare agents
-│   ├── cloudpital/      # Cloudpital EMR/RCM integration
+│   ├── platform/        # BrainSAIT Platform (brainsait.org, hnh.brainsait.org, academy.brainsait.org)
 │   └── sop/             # Standard operating procedures
 ├── business/            # Business domain
 │   ├── strategy/        # Mission, vision, strategy

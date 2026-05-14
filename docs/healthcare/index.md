@@ -47,11 +47,18 @@ This volume covers everything related to Saudi healthcare digital transformation
 17. [RadioLinc](agents/RadioLinc.md)
 18. [Voice2Care](agents/Voice2Care.md)
 
-### Part V: SOPs
+### Part V: BrainSAIT Platform
 
-19. [Claim Submission SOP](sop/claim_submission.md)
-20. [Eligibility Process](sop/eligibility_process.md)
-21. [Compliance SOP](sop/compliance_sop.md)
+19. [BrainSAIT Platform Overview](platform/index.md)
+20. [BrainSAIT Core Platform](platform/brainsait_platform.md)
+21. [HnH Health Portal](platform/hnh_portal.md)
+22. [BrainSAIT Academy](platform/academy.md)
+
+### Part VI: SOPs
+
+23. [Claim Submission SOP](sop/claim_submission.md)
+24. [Eligibility Process](sop/eligibility_process.md)
+25. [Compliance SOP](sop/compliance_sop.md)
 
 ### Appendix
 

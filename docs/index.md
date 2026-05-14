@@ -15,36 +15,41 @@ Welcome to the BrainSAIT Knowledge System — a comprehensive documentation plat
 
 ---
 
-## 🤝 Strategic Partnership: Cloudpital + BrainSAIT
+## 🏥 BrainSAIT Integrated Healthcare Platform
 
-**Powering the future of Saudi healthcare together**
+**One ecosystem. Endless healthcare intelligence.**
 
-BrainSAIT partners with **Cloudpital**, a leading cloud-based EMR and RCM platform, to deliver an integrated healthcare intelligence solution that combines:
+The BrainSAIT Integrated Healthcare Platform unifies AI-powered clinical operations, patient wellness, and healthcare education under a single ecosystem — purpose-built for Saudi Arabia's Vision 2030 digital health transformation.
 
-- ✅ **Cloudpital's NPHIES-certified platform** - Complete EMR, RCM, and ERP capabilities
-- ✅ **BrainSAIT's AI agents** - Intelligent automation and optimization
-- ✅ **Unified solution** - Seamless integration out-of-the-box
-
-### The Combined Power
+### Platform Ecosystem
 
 ```mermaid
 graph LR
-    A[Cloudpital<br/>EMR/RCM] -->|Clinical Data| B[BrainSAIT<br/>AI Layer]
-    B -->|Validated Claims| C[NPHIES<br/>Platform]
-    C -->|Payments| D[Revenue<br/>Optimization]
-    B -->|Intelligence| A
+    A[brainsait.org<br/>Core AI Platform] -->|Patient data| B[hnh.brainsait.org<br/>Patient Wellness Portal]
+    A -->|Workforce training| C[academy.brainsait.org<br/>Healthcare Education]
+    A -->|AI agents| D[NPHIES / Payers]
+    B -->|Health records| A
+    C -->|Certified professionals| A
 ```
+
+### Platform Components
+
+| Platform | URL | Purpose |
+|----------|-----|---------|
+| **BrainSAIT** | brainsait.org | Core healthcare AI — RCM, agents, NPHIES compliance |
+| **HnH Portal** | hnh.brainsait.org | Patient wellness, appointments, telemedicine |
+| **BrainSAIT Academy** | academy.brainsait.org | Healthcare IT training and certifications |
 
 ### Proven Results
 
-| Metric | Industry Average | Cloudpital + BrainSAIT |
-|--------|------------------|------------------------|
+| Metric | Industry Average | BrainSAIT Platform |
+|--------|------------------|--------------------|
 | Clean Claim Rate | 85-90% | **98%+** |
 | Denial Rate | 8-12% | **<3%** |
-| Days in AR | 45-60 days | **30-35 days** |
+| Days in AR | 45-60 days | **<30 days** |
 | Collection Rate | 92-95% | **98%+** |
 
-**[Explore Cloudpital Integration →](healthcare/cloudpital/index.md)**
+**[Explore BrainSAIT Platform →](healthcare/platform/index.md)**
 
 ---
 
@@ -56,7 +61,7 @@ graph LR
 
 Saudi healthcare transformation, NPHIES integration, RCM optimization, and FHIR compliance.
 
-- **[Cloudpital Integration](healthcare/cloudpital/index.md)** - EMR/RCM platform partnership
+- **[BrainSAIT Platform](healthcare/platform/index.md)** — Core AI platform, HnH portal, and Academy
 - [Claims Lifecycle](healthcare/claims/lifecycle.md)
 - [NPHIES Overview](healthcare/nphies/overview.md)
 - [ClaimLinc Agent](healthcare/agents/ClaimLinc.md)

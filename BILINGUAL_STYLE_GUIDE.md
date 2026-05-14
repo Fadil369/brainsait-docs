@@ -111,11 +111,11 @@ docs/business/strategy/mission_vision.ar.md
 --color-forest-green: #059669;       /* Success */
 ```
 
-**Cloudpital Colors:**
+**BrainSAIT Platform Colors:**
 ```css
---color-cloudpital-primary: #2563EB;   /* Blue */
---color-cloudpital-secondary: #10B981; /* Green */
---color-cloudpital-accent: #F59E0B;    /* Amber */
+--color-brainsait-primary: #3B82F6;    /* Blue */
+--color-brainsait-secondary: #2DD4BF;  /* Teal */
+--color-brainsait-accent: #8B5CF6;     /* Purple */
 ```
 
 ### Text Colors | ألوان النص

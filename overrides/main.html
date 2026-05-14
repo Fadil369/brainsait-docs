@@ -24,35 +24,24 @@
 
   {{ super() }}
 
-  <!-- Prominent Language Toggle -->
-  <div class="language-toggle-wrapper" id="languageToggle" role="navigation" aria-label="Language selection">
-    <div class="language-toggle">
+  <!-- Creative Language Toggle -->
+  <div class="lang-toggle" id="langToggle" role="navigation" aria-label="Language selection">
+    <div class="lang-toggle__track">
       <a href="{{ config.site_url }}en/"
-         class="language-toggle__btn {% if config.theme.language == 'en' or page.url.startswith('en/') %}language-toggle__btn--active{% endif %}"
+         class="lang-toggle__btn {% if config.theme.language != 'ar' %}lang-toggle__btn--active{% endif %}"
+         data-lang="en"
          title="Switch to English"
-         aria-label="Switch to English"
-         lang="en"
-         hreflang="en"
-         data-lang="en">
-        <svg class="language-toggle__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-          <circle cx="12" cy="12" r="10"/>
-          <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
-        </svg>
-        <span>EN</span>
+         aria-label="English"
+         hreflang="en">
+        EN
       </a>
       <a href="{{ config.site_url }}ar/"
-         class="language-toggle__btn {% if config.theme.language == 'ar' or page.url.startswith('ar/') %}language-toggle__btn--active{% endif %}"
+         class="lang-toggle__btn {% if config.theme.language == 'ar' %}lang-toggle__btn--active{% endif %}"
+         data-lang="ar"
          title="التبديل إلى العربية"
-         aria-label="التبديل إلى العربية"
-         lang="ar"
-         hreflang="ar"
-         dir="rtl"
-         data-lang="ar">
-        <svg class="language-toggle__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-          <circle cx="12" cy="12" r="10"/>
-          <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
-        </svg>
-        <span>عربي</span>
+         aria-label="العربية"
+         hreflang="ar">
+        عر
       </a>
     </div>
   </div>
@@ -110,15 +99,15 @@
       // Update toggle state based on current language
       function updateToggleState() {
         const currentLang = getCurrentLanguage();
-        const toggleBtns = document.querySelectorAll('.language-toggle__btn');
+        const toggleBtns = document.querySelectorAll('.lang-toggle__btn');
 
         toggleBtns.forEach(btn => {
           const btnLang = btn.getAttribute('data-lang');
-          btn.classList.remove('language-toggle__btn--active');
+          btn.classList.remove('lang-toggle__btn--active');
           btn.setAttribute('aria-current', 'false');
 
           if (btnLang === currentLang) {
-            btn.classList.add('language-toggle__btn--active');
+            btn.classList.add('lang-toggle__btn--active');
             btn.setAttribute('aria-current', 'page');
           }
         });
@@ -282,7 +271,7 @@
         refreshEnterpriseUI();
 
         // Add click handlers
-        const toggleBtns = document.querySelectorAll('.language-toggle__btn');
+        const toggleBtns = document.querySelectorAll('.lang-toggle__btn');
         toggleBtns.forEach(btn => {
           btn.addEventListener('click', handleToggleClick);
 
@@ -296,7 +285,7 @@
         });
 
         // Show toggle with animation
-        const toggle = document.getElementById('languageToggle');
+        const toggle = document.getElementById('langToggle');
         if (toggle) {
           toggle.style.opacity = '0';
           toggle.style.transform = 'translateY(-50%) translateX(20px)';
