@@ -185,6 +185,7 @@ Then add to `overrides/main.html`:
 #### Option 2: Matomo Analytics
 
 ```html
+{% raw %}
 {% block analytics %}
   <script>
     var _paq = window._paq = window._paq || [];
@@ -199,6 +200,7 @@ Then add to `overrides/main.html`:
     })();
   </script>
 {% endblock %}
+{% endraw %}
 ```
 
 ### Privacy Compliance
