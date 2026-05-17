@@ -173,16 +173,19 @@ extra:
 Then add to `overrides/main.html`:
 
 ```html
+{% raw %}
 {% extends "base.html" %}
 
 {% block analytics %}
   <script defer data-domain="docs.brainsait.com" src="https://plausible.io/js/script.js"></script>
 {% endblock %}
+{% endraw %}
 ```
 
 #### Option 2: Matomo Analytics
 
 ```html
+{% raw %}
 {% block analytics %}
   <script>
     var _paq = window._paq = window._paq || [];
@@ -197,6 +200,7 @@ Then add to `overrides/main.html`:
     })();
   </script>
 {% endblock %}
+{% endraw %}
 ```
 
 ### Privacy Compliance
